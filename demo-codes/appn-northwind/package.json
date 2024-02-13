@@ -28,6 +28,8 @@
     "nodemon": "^2.0.13"
   },
   "nodemonConfig": {
-    "ignore": ["northwindDB/*.json"]
+    "ignore": [
+      "northwindDB/*.json"
+    ]
   }
 }

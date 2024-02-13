@@ -32,8 +32,8 @@ app.get('/api/employee', async (req, res) => {
     res.send(employeeProfile);
   }
   catch (error) {
-      console.log(`Error in /api/employee handling: ${error}`);
-      res.status(500).json({ status: 500, statusText: error });
+    console.log(`Error in /api/employee handling: ${error}`);
+    res.status(500).json({ status: 500, statusText: error });
   }
 
 });
@@ -47,8 +47,8 @@ app.get('/api/order', async (req, res) => {
     res.send(order);
   }
   catch (error) {
-      console.log(`Error in /api/order handling: ${error}`);
-      res.status(500).json({ status: 500, statusText: error });
+    console.log(`Error in /api/order handling: ${error}`);
+    res.status(500).json({ status: 500, statusText: error });
   }
 
 });
@@ -60,8 +60,8 @@ app.get('/api/categories', async (req, res) => {
     res.send(categories);
   }
   catch (error) {
-      console.log(`Error in /api/categories handling: ${error}`);
-      res.status(500).json({ status: 500, statusText: error });
+    console.log(`Error in /api/categories handling: ${error}`);
+    res.status(500).json({ status: 500, statusText: error });
   }
 
 });
@@ -74,8 +74,8 @@ app.get('/api/category', async (req, res) => {
     res.send(categories);
   }
   catch (error) {
-      console.log(`Error in /api/category handling: ${error}`);
-      res.status(500).json({ status: 500, statusText: error });
+    console.log(`Error in /api/category handling: ${error}`);
+    res.status(500).json({ status: 500, statusText: error });
   }
 
 });
@@ -88,8 +88,8 @@ app.get('/api/product', async (req, res) => {
     res.send(product);
   }
   catch (error) {
-      console.log(`Error in /api/product handling: ${error}`);
-      res.status(500).json({ status: 500, statusText: error });
+    console.log(`Error in /api/product handling: ${error}`);
+    res.status(500).json({ status: 500, statusText: error });
   }
 
 });
@@ -116,3 +116,19 @@ const PORT = process.env.PORT || 3978;
 app.listen(PORT, () => {
   console.log(`Server is Running on Port ${PORT}`);
 });
+
+// Abstracting Web Services for using in Graph Connector Call
+app.get('/listCategories', async (req, res) => {
+
+  try {
+    //Get Categories from the existing method
+    const categories = await getCategories();
+    res.send(categories);
+  }
+  catch (error) {
+    console.log(`Error in /api/categories handling: ${error}`);
+    res.status(500).json({ status: 500, statusText: error });
+  }
+
+});
+
