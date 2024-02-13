@@ -19,13 +19,13 @@ async function createAADApp(appName, apiPermissions, exposeAPIURL) {
 }
 
 // For Production
-// const appName = 'Teams App Camp App June3-V1';
+// const appName = 'Exports Live India - 2024';
 //For Development
-const appName = 'Exports Live India - 2024 - AAD';
+const appName = 'Exports Live India - 2024 - Dev';
 const apiPermissions = 'https://graph.microsoft.com/User.Read';
 
 // //For Development
-const exposeAPIURL = 'b172-106-51-160-179.ngrok-free.app';
+const exposeAPIURL = 'bba4-106-51-165-202.ngrok-free.app';
 // //For Production
 // const exposeAPIURL = 'teams-appcamp-june3.azurewebsites.net';
 
