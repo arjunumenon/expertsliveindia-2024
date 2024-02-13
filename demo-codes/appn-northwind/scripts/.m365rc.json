@@ -1,8 +1,9 @@
 {
   "apps": [
     {
-      "appId": "236eb5a3-5470-4461-8273-3f2b695067f2",
-      "name": "Teams App Camp App Registration-V1"
+      "appId": "6e60f567-2586-4799-971e-0a097e2b0ed0",
+      "name": "Exports Live India - 2024 - AAD",
+      "secret": "ham8Q~gWFKANWWk1_DZtOji5VJf9xX2Q5g.kfc2N"
     }
   ]
 }
