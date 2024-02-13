@@ -19,14 +19,14 @@ async function createAADApp(appName, apiPermissions, exposeAPIURL) {
 }
 
 // For Production
-// const appName = 'Exports Live India - 2024';
-//For Development
-const appName = 'Exports Live India - 2024 - Dev';
+const appName = 'Exports Live India - 2024';
+// //For Development
+// const appName = 'Exports Live India - 2024 - Dev';
 const apiPermissions = 'https://graph.microsoft.com/User.Read';
 
 // //For Development
-const exposeAPIURL = 'bba4-106-51-165-202.ngrok-free.app';
-// //For Production
-// const exposeAPIURL = 'teams-appcamp-june3.azurewebsites.net';
+// const exposeAPIURL = 'bba4-106-51-165-202.ngrok-free.app';
+//For Production
+const exposeAPIURL = 'northwind-eli2024.azurewebsites.net';
 
 const appCreated = await createAADApp(appName, apiPermissions, exposeAPIURL);
