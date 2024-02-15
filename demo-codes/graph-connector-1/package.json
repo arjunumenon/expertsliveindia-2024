@@ -1,5 +1,5 @@
 {
-  "name": "sample-solution-gallery-connector-node",
+  "name": "ingest-northwind-application-graph-connector",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
