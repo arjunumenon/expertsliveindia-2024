@@ -1,9 +1,9 @@
 export const config = {
   connection: {
     // 3-32 characters
-    id: 'ingestpublicapi',
-    name: 'Public API Data Ingestion',
-    description: 'This is the connection which will be used to ingest data from the public API.',
+    id: 'eli24ingestenterpriseapi',
+    name: 'ELI 24 - Ingest Eneterprise API',
+    description: 'This is the connection which will be used to ingest data from the enterprise API. Connection created during the demo of Graph Connectors',
     activitySettings: {
       urlToItemResolvers: [
         {
