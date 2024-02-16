@@ -10,7 +10,26 @@ Session Link : [Experts Live India 2024](https://expertslive.co.in/)
 
 ![Session Information](assets/ArjunMenon.jpeg)
 
-### Agenda
+## Session Abstract
+
+In this session Arjun Menon will be talking about the Microsoft 365 Graph Connectors. He will be covering the following topics in this session.
+
+1. Ingesting Public API Data to Microsoft 365
+2. Ingesting another Public API Date with an enterprise level full blown application level
+
+## Pre-requisites
+
+Pre-requisites for the session are mentioned in each of the demo folders mentioned in the Demo Codes section.
+
+## Demo Codes
+
+### Demo 1 - Ingesting Public API Data to Microsoft 365
+[Demo Code](./demo-codes/1.gr-cnctr-public-api/)
+
+### Demo 2 - Ingesting another Public API Date with an enterprise level full blown application level
+[Demo Code](./demo-codes/2.gr-cnctr-enterprise-full/)
+
+## Complete Agenda
 
 ![Agenda 1](assets/agenda/Agenda1.jpeg)
 ![Agenda 2](assets/agenda/Agenda2.jpeg)
@@ -18,11 +37,3 @@ Session Link : [Experts Live India 2024](https://expertslive.co.in/)
 ![Agenda 4](assets/agenda/Agenda4.jpeg)
 ![Agenda 5](assets/agenda/Agenda5.jpeg)
 ![Agenda 6](assets/agenda/Agenda6.jpeg)
-
-## Session Abstract
-
-## Demo Details
-
-### Pre-requisites
-
-### Demo Codes
