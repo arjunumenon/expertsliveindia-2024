@@ -22,7 +22,7 @@ export const config = {
     searchSettings: {
       searchResultTemplates: [
         {
-          id: 'ingestpublicapi',
+          id: 'ingestenterpriseapi',
           priority: 1,
           layout: {}
         }
