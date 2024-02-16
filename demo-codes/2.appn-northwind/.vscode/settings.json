@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/9f6c8d04-7a32-46d1-86f2-37766420bee0/resourceGroups/session-experts-live-2024/providers/Microsoft.Web/sites/northwind-eli2024",
+    "appService.deploySubpath": "."
+}

@@ -1,0 +1,12 @@
+{
+	"IsEncrypted": false,
+	"Values": {
+		"FUNCTIONS_WORKER_RUNTIME": "node",
+		"AzureWebJobsStorage": "UseDevelopmentStorage=true",
+		"AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+		"AAD_APP_CLIENT_ID": "0a8504b3-646f-48f4-9edb-13992d88ae6f",
+		"AAD_APP_CLIENT_SECRET": "XWD8Q~UGu0dSIVPVnuzTlCvygCwto8zGdiA4gcUx",
+		"AAD_APP_TENANT_ID": "095efa67-57fa-40c7-b7cc-e96dc3e5780c",
+		"NOTIFICATION_ENDPOINT": "https://s4f0mprs-7071.inc1.devtunnels.ms"
+	}
+}
