@@ -1,0 +1,26 @@
+{
+    "id": "d04f4fae-83e1-4c84-ae0f-d47c80c1ad81",
+    "appId": "0a8504b3-646f-48f4-9edb-13992d88ae6f",
+    "name": "AUMGrConn-Food-dev",
+    "accessTokenAcceptedVersion": 2,
+    "signInAudience": "AzureADMultipleOrgs",
+    "requiredResourceAccess": [
+        {
+            "resourceAppId": "00000003-0000-0000-c000-000000000000",
+            "resourceAccess": [
+                {
+                    "id": "f431331c-49a6-499f-be1c-62af19c34a9d",
+                    "type": "Role"
+                },
+                {
+                    "id": "8116ae0f-55c2-452d-9944-d18420f5b2c8",
+                    "type": "Role"
+                }
+            ]
+        }
+    ],
+    "identifierUris": [
+        "api://0a8504b3-646f-48f4-9edb-13992d88ae6f"
+    ],
+    "replyUrlsWithType": []
+}
