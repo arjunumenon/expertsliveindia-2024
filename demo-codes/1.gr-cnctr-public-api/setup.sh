@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # login
-# echo "Sign in to Microsoft 365..."
-# npx -p @pnp/cli-microsoft365 -- m365 login --authType browser
+echo "Sign in to Microsoft 365..."
+npx -p @pnp/cli-microsoft365 -- m365 login --authType browser
 
 # create AAD app
 echo "Creating AAD app..."

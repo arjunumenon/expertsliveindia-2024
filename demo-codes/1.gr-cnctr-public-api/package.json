@@ -1,12 +1,12 @@
 {
-  "name": "ingest-northwind-application-graph-connector",
+  "name": "ingest-public-api-graph-connector",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "createConnection": "node createConnection.js",
-    "loadContent": "node loadContent.js"
+    "loadContent": "node loadContent.js --fromCache=false"
   },
   "keywords": [],
   "author": "",

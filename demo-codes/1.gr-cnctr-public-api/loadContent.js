@@ -67,7 +67,7 @@ async function extract({ fromCache = false, sinceDate = new Date(0) }) {
         body: JSON.stringify(payload)
       });
       const data = await response.json();
-      
+
       if (data.items.length > 0) {
         const samplesToInclude = data.items.filter(sample => new Date(sample.updateDateTime) > sinceDate);
         samples.push(...samplesToInclude);
@@ -220,8 +220,10 @@ async function load(samples) {
 
 async function main() {
   const lastCrawledSampleDate = getLastCrawledSampleDate();
-  
+
   let fromCache = yargs(process.argv).argv.fromCache;
+
+  console.log(`from Cache: ${fromCache}`);
   if (fromCache === undefined) {
     fromCache = true;
   }
