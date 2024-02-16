@@ -6,7 +6,7 @@ async function createConnection() {
   console.log('Creating connection...');
 
   const { id, name, description, activitySettings, searchSettings } = config.connection;
-  const adaptiveCard = fs.readFileSync('./resultLayout-compact.json', 'utf8');
+  const adaptiveCard = fs.readFileSync('./resultLayout.json', 'utf8');
   searchSettings.searchResultTemplates[0].layout = JSON.parse(adaptiveCard);
 
   await client

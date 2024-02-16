@@ -11,7 +11,7 @@ This samples contains a Microsoft Graph connector that shows how to ingest sampl
 ## Prerequisites
 
 - [Microsoft 365 Developer tenant](https://developer.microsoft.com/microsoft-365/dev-program)
-- [Node@18](https://nodejs.org)
+- [Node@20](https://nodejs.org)
 - Bash
 
 ## Minimal path to awesome
@@ -24,7 +24,7 @@ This samples contains a Microsoft Graph connector that shows how to ingest sampl
 
 ## Features
 
-This demo shows how to ingest Product Categories from your enteprise APIs into your Microsoft 365 tenant.
+This demo shows how to ingest a Publicly available API to your Microsoft 365 tenant.
 
 The demo illustrates the following concepts:
 
