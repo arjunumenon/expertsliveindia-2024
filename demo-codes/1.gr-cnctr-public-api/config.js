@@ -1,8 +1,8 @@
 export const config = {
   connection: {
     // 3-32 characters
-    id: 'eli24ingestpubliceapiDEMO',
-    name: 'ELI 24 - Ingest Public API - DEMO',
+    id: 'eli24ingestDEMO',
+    name: 'ELI 24 - Ingest - DEMO',
     description: 'This is the connection which will be used to ingest data from the Public API. Connection created during the demo of Graph Connectors',
     activitySettings: {
       urlToItemResolvers: [
@@ -22,7 +22,7 @@ export const config = {
     searchSettings: {
       searchResultTemplates: [
         {
-          id: 'ingestpublicapidemo',
+          id: 'publicapidemo',
           priority: 1,
           layout: {}
         }

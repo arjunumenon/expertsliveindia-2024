@@ -1,1 +1,3097 @@
-[]
+[
+  {
+    "sampleId": "article-summary",
+    "name": null,
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "title": "Article summary",
+    "shortDescription": "This prompt helps with summarizing long articles in a few points",
+    "downloadUrl": null,
+    "products": [
+      "AI Builder",
+      "Power Platform"
+    ],
+    "categories": [
+      "AI-BUILDER"
+    ],
+    "preview": null,
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://github.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
+        "alt": "Preview GIF",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "abozyk1990",
+        "displayName": "Andrzej Bożyk",
+        "company": null,
+        "pictureUrl": "https://github.com/abozyk1990.png"
+      }
+    ],
+    "references": null,
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder",
+    "creationDateTime": "2024-02-14T00:00:00+00:00",
+    "updateDateTime": "2024-02-14T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/article-summary",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-sp-dev-spfx-web-parts-react-m365-services-health",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Service Health for Microsoft 365",
+    "shortDescription": "Service Health for Microsoft 365 solution show the health status for all the Microsoft 365 services",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-m365-services-health",
+    "products": [
+      "SharePoint"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "CLIENT-SIDE-DEV",
+        "value": "React"
+      },
+      {
+        "key": "SPFX-VERSION",
+        "value": "1.16.1"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/sp-dev-fx-webparts/samples/react-m365-services-health/assets/m365servicehealthdetail.png",
+        "alt": "Web Part Preview",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "HarminderSethi",
+        "displayName": "Harminder Singh",
+        "company": null,
+        "pictureUrl": "https://github.com/HarminderSethi.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Build your first SharePoint client-side web part",
+        "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part",
+        "description": "Client-side web parts are client-side components that run in the context of a SharePoint page. Client-side web parts can be deployed to SharePoint environments that support the SharePoint Framework. You can also use modern JavaScript web frameworks, tools, and libraries to build them."
+      }
+    ],
+    "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-m365-services-health",
+    "creationDateTime": "2023-02-03T00:00:00+00:00",
+    "updateDateTime": "2024-02-10T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-sp-dev-spfx-web-parts-react-m365-services-health",
+    "featured": false
+  },
+  {
+    "sampleId": "m365-get-unifiedlog-spo-dlp-exchange-entra",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Get Unified log for SharePoint DLP Exchange and Entra",
+    "shortDescription": "Understand and track activities within your M365 environment is crucial for maintaining security and compliance.",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint",
+      "DLP",
+      "Exchange",
+      "Entra"
+    ],
+    "categories": [
+      "Report",
+      "Security"
+    ],
+    "preview": null,
+    "metadata": [
+      {
+        "key": "PNP-POWERSHELL",
+        "value": "2.2.0"
+      },
+      {
+        "key": "CLI-FOR-MICROSOFT365",
+        "value": "5.4.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/script-samples/main/scripts/m365-get-unifiedlog-spo-dlp-exchange-entra/assets/preview.png",
+        "alt": "",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "reshmee011",
+        "displayName": "Reshmee Auckloo",
+        "company": "",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/7693852?v=4"
+      }
+    ],
+    "references": [
+      {
+        "name": "Want to learn more about PnP PowerShell and the cmdlets",
+        "url": "https://aka.ms/pnp/powershell",
+        "description": "Check out the PnP PowerShell site to get started and for the reference to the cmdlets."
+      },
+      {
+        "name": "Want to learn more about CLI for Microsoft 365 and the commands",
+        "url": "https://aka.ms/cli-m365",
+        "description": "Check out the CLI for Microsoft 365 site to get started and for the reference to the commands."
+      }
+    ],
+    "url": "https://pnp.github.io/script-samples/m365-get-unifiedlog-spo-dlp-exchange-entra/README.html",
+    "creationDateTime": "2024-01-27T00:00:00+00:00",
+    "updateDateTime": "2024-02-10T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/m365-get-unifiedlog-spo-dlp-exchange-entra",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-sp-dev-spfx-web-parts-react-personal-tools-list",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Personal tools list",
+    "shortDescription": "Allows users to select tools from a predefined list and save them in their own personalized view.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-personal-tools-list",
+    "products": [
+      "SharePoint"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "CLIENT-SIDE-DEV",
+        "value": "React"
+      },
+      {
+        "key": "SPFX-VERSION",
+        "value": "1.18.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/sp-dev-fx-webparts/samples/react-personal-tools-list/assets/mytoolsdemo1.gif",
+        "alt": "Web Part Preview",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 101,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/sp-dev-fx-webparts/samples/react-personal-tools-list/assets/mytoolsdemo2.gif",
+        "alt": "Web Part Preview",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 102,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/sp-dev-fx-webparts/samples/react-personal-tools-list/assets/availabletools.png",
+        "alt": "Web Part Preview",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 103,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/sp-dev-fx-webparts/samples/react-personal-tools-list/assets/mytoold.png",
+        "alt": "Web Part Preview",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 104,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/sp-dev-fx-webparts/samples/react-personal-tools-list/assets/mytoolslist.png",
+        "alt": "Web Part Preview",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 105,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/sp-dev-fx-webparts/samples/react-personal-tools-list/assets/savedtools.png",
+        "alt": "Web Part Preview",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 106,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/sp-dev-fx-webparts/samples/react-personal-tools-list/assets/savetools.png",
+        "alt": "Web Part Preview",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 107,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/sp-dev-fx-webparts/samples/react-personal-tools-list/assets/selecttools.png",
+        "alt": "Web Part Preview",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 108,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/sp-dev-fx-webparts/samples/react-personal-tools-list/assets/settings.png",
+        "alt": "Web Part Preview",
+        "slides": null
+      },
+      {
+        "type": "Video",
+        "sortOrder": 109,
+        "url": "https://github.com/pnp/sp-dev-fx-webparts/raw/main/samples/react-personal-tools-list/assets/video-demo1.mp4",
+        "alt": null,
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "Eli-Schei",
+        "displayName": "Eli Schei",
+        "company": null,
+        "pictureUrl": "https://github.com/Eli-Schei.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Build your first SharePoint client-side web part",
+        "url": "https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part",
+        "description": "Client-side web parts are client-side components that run in the context of a SharePoint page. Client-side web parts can be deployed to SharePoint environments that support the SharePoint Framework. You can also use modern JavaScript web frameworks, tools, and libraries to build them."
+      }
+    ],
+    "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-personal-tools-list",
+    "creationDateTime": "2024-02-08T00:00:00+00:00",
+    "updateDateTime": "2024-02-08T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-sp-dev-spfx-web-parts-react-personal-tools-list",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-list-formatting-generic-blurred",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Blurred Field Value",
+    "shortDescription": "This format demonstrates how to blur the value of a field. You can use this formatting when you want to share your screen for a demo and don't want to display real data.",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint",
+      "Microsoft Lists"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "LIST-SAMPLE-TYPE",
+        "value": "Column"
+      },
+      {
+        "key": "SHAREPOINT-COMPATIBILITY",
+        "value": "SharePoint Online"
+      },
+      {
+        "key": "SAMPLE-CATEGORIES",
+        "value": ""
+      },
+      {
+        "key": "LIST-COLUMN-TYPE",
+        "value": "General"
+      },
+      {
+        "key": "FORMATTING-TOKENS",
+        "value": ""
+      },
+      {
+        "key": "FORMATTING-OPERATORS",
+        "value": ""
+      },
+      {
+        "key": "FORMATTING-ACTIONS",
+        "value": ""
+      },
+      {
+        "key": "FORMATTING-FEATURES",
+        "value": ""
+      },
+      {
+        "key": "CLASSES",
+        "value": ""
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/List-Formatting/master/column-samples/generic-blurred/assets/screenshot.png",
+        "alt": "screenshot",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "JulienVLC",
+        "displayName": "Julien Aubert",
+        "company": null,
+        "pictureUrl": "https://github.com/JulienVLC.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Use column formatting to customize SharePoint",
+        "url": "https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting",
+        "description": "You can use column formatting to customize how fields in SharePoint lists and libraries are displayed. To do this, you construct a JSON object that describes the elements that are displayed when a field is included in a list view, and the styles to be applied to those elements. The column formatting does not change the data in the list item or file; it only changes how it’s displayed to users who browse the list."
+      }
+    ],
+    "url": "https://github.com/pnp/List-Formatting/tree/master/column-samples/generic-blurred",
+    "creationDateTime": "2024-02-08T00:00:00+00:00",
+    "updateDateTime": "2024-02-08T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-list-formatting-generic-blurred",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-sp-dev-spfx-web-parts-react-azure-openai-api-stream",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Calling Azure OpenAI API in streaming mode",
+    "shortDescription": "This web part shows how you can call Azure OpenAI API in Streaming mode",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-azure-openai-api-stream",
+    "products": [
+      "SharePoint"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "CLIENT-SIDE-DEV",
+        "value": "React"
+      },
+      {
+        "key": "SPFX-VERSION",
+        "value": "1.18.2"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/sp-dev-fx-webparts/samples/react-azure-openai-api-stream/assets/screenshot.gif",
+        "alt": "Sample in action",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 101,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/sp-dev-fx-webparts/samples/react-azure-openai-api-stream/assets/screenshot.png",
+        "alt": "Screenshot",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "luismanez",
+        "displayName": "Luis Mañez",
+        "company": null,
+        "pictureUrl": "https://github.com/luismanez.png"
+      },
+      {
+        "gitHubAccount": "thechriskent",
+        "displayName": "Chris Kent",
+        "company": null,
+        "pictureUrl": "https://github.com/thechriskent.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Build your first SharePoint client-side web part",
+        "url": "https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part",
+        "description": "Client-side web parts are client-side components that run in the context of a SharePoint page. Client-side web parts can be deployed to SharePoint environments that support the SharePoint Framework. You can also use modern JavaScript web frameworks, tools, and libraries to build them."
+      }
+    ],
+    "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-azure-openai-api-stream",
+    "creationDateTime": "2024-01-02T00:00:00+00:00",
+    "updateDateTime": "2024-02-08T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-sp-dev-spfx-web-parts-react-azure-openai-api-stream",
+    "featured": false
+  },
+  {
+    "sampleId": "spo-register-org-assets-library",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Register SharePoint Organization Assets Library",
+    "shortDescription": "This sample script shows how to register a SharePoint document library as an organization assets library.",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint"
+    ],
+    "categories": [
+      "Configure"
+    ],
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SPO-MANAGEMENT-SHELL",
+        "value": "16.0.23508.0"
+      },
+      {
+        "key": "PNP-POWERSHELL",
+        "value": "2.3.0"
+      },
+      {
+        "key": "CLI-FOR-MICROSOFT365",
+        "value": "7.3.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/script-samples/main/scripts/spo-register-org-assets-library/assets/preview.png",
+        "alt": "Preview image for script sample",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "ganesh-sanap",
+        "displayName": "Ganesh Sanap",
+        "company": "",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/25476310?v=4"
+      }
+    ],
+    "references": [
+      {
+        "name": "Introduction to the SharePoint Online Management Shell",
+        "url": "https://learn.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell",
+        "description": "Check out the SPO Management Shell documentation site to get started and for the reference to the cmdlets."
+      },
+      {
+        "name": "Want to learn more about PnP PowerShell and the cmdlets",
+        "url": "https://aka.ms/pnp/powershell",
+        "description": "Check out the PnP PowerShell site to get started and for the reference to the cmdlets."
+      },
+      {
+        "name": "Want to learn more about CLI for Microsoft 365 and the commands",
+        "url": "https://aka.ms/cli-m365",
+        "description": "Check out the CLI for Microsoft 365 site to get started and for the reference to the commands."
+      }
+    ],
+    "url": "https://pnp.github.io/script-samples/spo-register-org-assets-library/README.html",
+    "creationDateTime": "2024-02-03T00:00:00+00:00",
+    "updateDateTime": "2024-02-03T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/spo-register-org-assets-library",
+    "featured": false
+  },
+  {
+    "sampleId": "spo-remove-org-assets-library",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Remove SharePoint Organization Assets Library",
+    "shortDescription": "This sample script shows how to remove a SharePoint document library from organization assets libraries.",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint"
+    ],
+    "categories": [
+      "Configure"
+    ],
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SPO-MANAGEMENT-SHELL",
+        "value": "16.0.23508.0"
+      },
+      {
+        "key": "PNP-POWERSHELL",
+        "value": "2.3.0"
+      },
+      {
+        "key": "CLI-FOR-MICROSOFT365",
+        "value": "7.3.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/script-samples/main/scripts/spo-remove-org-assets-library/assets/preview.png",
+        "alt": "Preview image for script sample",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "ganesh-sanap",
+        "displayName": "Ganesh Sanap",
+        "company": "",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/25476310?v=4"
+      }
+    ],
+    "references": [
+      {
+        "name": "Introduction to the SharePoint Online Management Shell",
+        "url": "https://learn.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell",
+        "description": "Check out the SPO Management Shell documentation site to get started and for the reference to the cmdlets."
+      },
+      {
+        "name": "Want to learn more about PnP PowerShell and the cmdlets",
+        "url": "https://aka.ms/pnp/powershell",
+        "description": "Check out the PnP PowerShell site to get started and for the reference to the cmdlets."
+      },
+      {
+        "name": "Want to learn more about CLI for Microsoft 365 and the commands",
+        "url": "https://aka.ms/cli-m365",
+        "description": "Check out the CLI for Microsoft 365 site to get started and for the reference to the commands."
+      }
+    ],
+    "url": "https://pnp.github.io/script-samples/spo-remove-org-assets-library/README.html",
+    "creationDateTime": "2024-02-03T00:00:00+00:00",
+    "updateDateTime": "2024-02-03T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/spo-remove-org-assets-library",
+    "featured": false
+  },
+  {
+    "sampleId": "spo-download-files-and-archive",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Download all files from array of documents urls and archive them",
+    "shortDescription": "The script downloads all files from array of documents urls and archive them to a zip file",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint"
+    ],
+    "categories": [
+      "Data"
+    ],
+    "preview": null,
+    "metadata": [
+      {
+        "key": "PNP-POWERSHELL",
+        "value": "2.2.1"
+      },
+      {
+        "key": "CLI-FOR-MICROSOFT365",
+        "value": "6.8.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/script-samples/main/scripts/spo-download-files-and-archive/assets/preview.png",
+        "alt": "preview image showing there is no preview",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "ValerasNarbutas",
+        "displayName": "Valeras Narbutas",
+        "company": "",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/16476453?v=4"
+      }
+    ],
+    "references": [
+      {
+        "name": "Want to learn more about PnP PowerShell and the cmdlets",
+        "url": "https://aka.ms/pnp/powershell",
+        "description": "Check out the PnP PowerShell site to get started and for the reference to the cmdlets."
+      },
+      {
+        "name": "Want to learn more about CLI for Microsoft 365 and the commands",
+        "url": "https://aka.ms/cli-m365",
+        "description": "Check out the CLI for Microsoft 365 site to get started and for the reference to the commands."
+      }
+    ],
+    "url": "https://pnp.github.io/script-samples/spo-download-files-and-archive/README.html",
+    "creationDateTime": "2024-02-01T00:00:00+00:00",
+    "updateDateTime": "2024-02-01T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/spo-download-files-and-archive",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-powerplatform-samples-license-calculator",
+    "name": null,
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "title": "Power Apps License Calculator",
+    "shortDescription": "Full Power Apps capabilities are licensed via Power Apps subscriptions on a per app/user or per user basis and via pay-as-you-go.",
+    "downloadUrl": null,
+    "products": [
+      "Power Apps",
+      "Power Platform"
+    ],
+    "categories": [
+      "POWERAPPS"
+    ],
+    "preview": null,
+    "metadata": [
+      {
+        "key": "POWERAPPS-MANIFEST-VERSION",
+        "value": "0.20"
+      },
+      {
+        "key": "POWERAPPS-TYPE",
+        "value": "Canvas"
+      },
+      {
+        "key": "POWERAPPS-EXPERIMENTAL",
+        "value": "No"
+      },
+      {
+        "key": "POWERAPPS-PREMIUM",
+        "value": "No"
+      },
+      {
+        "key": "POWERAPPS-ONPREM",
+        "value": "No"
+      },
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/powerplatform-samples/samples/license-calculator/assets/licenseprice.gif?raw=true",
+        "alt": "Preview",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "kkazala",
+        "displayName": "Kinga Kazala",
+        "company": null,
+        "pictureUrl": "https://github.com/kkazala.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Overview of creating apps in Power Apps",
+        "url": "https://learn.microsoft.com/en-us/power-apps/maker/",
+        "description": "Overview of creating apps in Power Apps"
+      },
+      {
+        "name": "Power Apps canvas apps documentation",
+        "url": "https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/",
+        "description": "Power Apps canvas apps documentation"
+      }
+    ],
+    "url": "https://github.com/pnp/powerplatform-samples/tree/main/samples/license-calculator",
+    "creationDateTime": "2024-01-30T00:00:00+00:00",
+    "updateDateTime": "2024-01-30T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-powerplatform-samples-license-calculator",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-sp-dev-teams-sample-tab-mindmap-fluid",
+    "name": null,
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "title": "MindMap based on Fluid",
+    "shortDescription": "Teams tab allowing multiple users to simultaneously edit a shared mind map",
+    "downloadUrl": null,
+    "products": [
+      "Teams"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "TEAMS-SAMPLE-SOURCE",
+        "value": "pnp"
+      },
+      {
+        "key": "TEAMS-SAMPLE-TYPE",
+        "value": "demo"
+      },
+      {
+        "key": "TEAMS-CLIENT-LANGUAGE",
+        "value": "typescript"
+      },
+      {
+        "key": "TEAMS-CLIENT-PLATFORM",
+        "value": ""
+      },
+      {
+        "key": "TEAMS-CLIENT-UI",
+        "value": "react"
+      },
+      {
+        "key": "TEAMS-SERVER-LANGUAGE",
+        "value": ""
+      },
+      {
+        "key": "TEAMS-SERVER-PLATFORM",
+        "value": "express"
+      },
+      {
+        "key": "TEAMS-BOT-FRAMEWORK",
+        "value": ""
+      },
+      {
+        "key": "TEAMS-FEATURES",
+        "value": "tab"
+      },
+      {
+        "key": "TEAMS-GENERATOR",
+        "value": "teams-toolkit"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/teams-dev-samples/main/samples/tab-mindmap-fluid/assets/channel.gif",
+        "alt": "Users collaborate on a mind map in a Teams channel",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "petkir",
+        "displayName": "Peter Paul Kirschner",
+        "company": "cubido business solutions ",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/13123689?v=4"
+      }
+    ],
+    "references": [
+      {
+        "name": "Fluid Framework",
+        "url": "https://fluidframework.com/docs/",
+        "description": null
+      },
+      {
+        "name": "Teams development videos from Microsoft",
+        "url": "https://aka.ms/sample-ref-teams-vids-from-microsoft",
+        "description": null
+      },
+      {
+        "name": "Teams development videos from the community",
+        "url": "https://aka.ms/sample-ref-teams-vids-from-community",
+        "description": null
+      }
+    ],
+    "url": "https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-mindmap-fluid",
+    "creationDateTime": "2024-01-30T00:00:00+00:00",
+    "updateDateTime": "2024-01-30T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-sp-dev-teams-sample-tab-mindmap-fluid",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-devproxy-any-generate-openapi-spec",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Generate an OpenAPI spec for any API",
+    "shortDescription": "This sample contains a preset that allows you to generate an OpenAPI spec for any API. By specifying the URLs of the API for which you want to generate an OpenAPI spec, Dev Proxy will intercept all requests to that API and generate an OpenAPI spec based on the requests and responses.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/any-generate-openapi-spec",
+    "products": [
+      "Dev Proxy"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "any-generate-openapi-spec"
+      },
+      {
+        "key": "PRESET",
+        "value": "Yes"
+      },
+      {
+        "key": "MOCKS",
+        "value": "No"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.15.0-beta.1"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/any-generate-openapi-spec/assets/screenshot.png",
+        "alt": "Dev Proxy generated an OpenAPI spec for a JSON placeholder API",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      },
+      {
+        "gitHubAccount": "garrytrinder",
+        "displayName": "Garry Trinder",
+        "company": null,
+        "pictureUrl": "https://github.com/garrytrinder.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Use preset configurations",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/use-preset-configurations",
+        "description": "Instructions on how to configure the Dev Proxy to use a different configuration file."
+      },
+      {
+        "name": "OpenApiSpecGeneratorPlugin documentation",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/technical-reference/openapispecgeneratorplugin",
+        "description": "The documentation of the RateLimitingPlugin for the Dev Proxy."
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/any-generate-openapi-spec",
+    "creationDateTime": "2024-01-29T00:00:00+00:00",
+    "updateDateTime": "2024-01-29T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-any-generate-openapi-spec",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-devproxy-demo-randomerror-js",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Demo: Simulate random error responses from a custom API",
+    "shortDescription": "This sample contains a demo web application connected to a placeholder API. Using Dev Proxy, you can simulate random errors returned by the API and see how the app handles them.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/demo-randomerror-js",
+    "products": [
+      "Dev Proxy"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "demo-randomerror-js"
+      },
+      {
+        "key": "PRESET",
+        "value": "Yes"
+      },
+      {
+        "key": "MOCKS",
+        "value": "No"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.14.1"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/demo-randomerror-js/assets/devproxy-random-errors.png",
+        "alt": "Terminal window in VSCode showing Dev Proxy simulating random API errors",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 200,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/demo-randomerror-js/assets/webapp.png",
+        "alt": "Demo web app",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 300,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/demo-randomerror-js/assets/webapp-code.png",
+        "alt": "Demo web app code",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 400,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/demo-randomerror-js/assets/devproxyrc.png",
+        "alt": "Dev Proxy configuration for simulating random errors",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 500,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/demo-randomerror-js/assets/randomerrors.png",
+        "alt": "Random errors simulated by Dev Proxy",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Test my app with random errors",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/test-my-app-with-random-errors",
+        "description": "Learn how to use the Dev Proxy to simulate random errors for your API."
+      },
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Use preset configurations",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/use-preset-configurations",
+        "description": "Instructions on how to configure the Dev Proxy to use a different configuration file."
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/demo-randomerror-js",
+    "creationDateTime": "2024-01-26T00:00:00+00:00",
+    "updateDateTime": "2024-01-26T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-demo-randomerror-js",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-devproxy-demo-m365-randomerror-js",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Demo: Simulate random error responses from Microsoft 365 APIs",
+    "shortDescription": "This sample contains a demo web application connected to Microsoft Graph. Using Dev Proxy, you can simulate random errors returned by Microsoft Graph and see how the app handles them.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/demo-m365-randomerror-js",
+    "products": [
+      "Dev Proxy"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "demo-m365-randomerror-js"
+      },
+      {
+        "key": "PRESET",
+        "value": "No"
+      },
+      {
+        "key": "MOCKS",
+        "value": "No"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.14.1"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/demo-m365-randomerror-js/assets/test-app-js-requests.png",
+        "alt": "Screenshot of a web browser with the web app running. Dev tools open with console window full of errors",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Simulate errors from Microsoft Graph APIs",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/simulate-errors-microsoft-graph-apis",
+        "description": "Learn how to use the Dev Proxy to simulate errors from Microsoft Graph APIs."
+      },
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Use preset configurations",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/use-preset-configurations",
+        "description": "Instructions on how to configure the Dev Proxy to use a different configuration file."
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/demo-m365-randomerror-js",
+    "creationDateTime": "2024-01-26T00:00:00+00:00",
+    "updateDateTime": "2024-01-26T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-demo-m365-randomerror-js",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-devproxy-microsoft-graph-docs-mocks",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Microsoft Graph mocks from Microsoft Graph API docs",
+    "shortDescription": "This sample contains mocks for the Microsoft Graph API based on the Microsoft Graph API documentation. Mocks are created based on sample requests and responses included in the Microsoft Graph documentation. Using these mocks, you can simulate calling Microsoft Graph API without having to connect to the actual service. This is useful for testing and development purposes. These mocks are also helpful when you want to demo time-sensitive functionality such as recently opened files, without having to generate activity on your tenant for Microsoft Graph to return the data. The sample contains three mock files: mocks for Microsoft Graph v1.0 endpoints (graph-v1_0-proxy-mocks.json), mocks for Microsoft Graph beta endpoints (graph-beta-proxy-mocks.json) and mocks combining both v1.0 and beta endpoints (graph-proxy-mocks.json).",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/microsoft-graph-docs-mocks",
+    "products": [
+      "Dev Proxy",
+      "Microsoft Graph"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "microsoft-graph-docs-mocks"
+      },
+      {
+        "key": "PRESET",
+        "value": "No"
+      },
+      {
+        "key": "MOCKS",
+        "value": "Yes"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.14.1"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/microsoft-graph-docs-mocks/assets/screenshot.png",
+        "alt": "Dev Proxy simulating mocking Microsoft Graph API request to /applications",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Change mocks file",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/change-mocks-file",
+        "description": "Instructions on how to change the mocks file used by the Dev Proxy."
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/microsoft-graph-docs-mocks",
+    "creationDateTime": "2023-08-10T00:00:00+00:00",
+    "updateDateTime": "2024-01-25T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-microsoft-graph-docs-mocks",
+    "featured": true
+  },
+  {
+    "sampleId": "pnp-devproxy-microsoft-graph-sandbox-mocks",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Microsoft Graph mocks from Microsoft Graph API docs with sandbox data",
+    "shortDescription": "This sample contains mocks for the Microsoft Graph API based on the Microsoft Graph API documentation. Mocks are created based on sample requests and responses included in the Microsoft Graph documentation. Mocks are extended with the data from sandbox, which is used by Microsoft Graph Explorer and other Microsoft's properties. Using these mocks, you can simulate calling Microsoft Graph API without having to connect to the actual service. This is useful for testing and development purposes. These mocks are also helpful when you want to demo time-sensitive functionality such as recently opened files, without having to generate activity on your tenant for Microsoft Graph to return the data. The sample contains three mock files: mocks for Microsoft Graph v1.0 endpoints (graph-v1_0-proxy-mocks.json), mocks for Microsoft Graph beta endpoints (graph-beta-proxy-mocks.json) and mocks combining both v1.0 and beta endpoints (graph-proxy-mocks.json).",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/microsoft-graph-sandbox-mocks",
+    "products": [
+      "Dev Proxy",
+      "Microsoft Graph"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "microsoft-graph-sandbox-mocks"
+      },
+      {
+        "key": "PRESET",
+        "value": "No"
+      },
+      {
+        "key": "MOCKS",
+        "value": "Yes"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.14.1"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/microsoft-graph-sandbox-mocks/assets/screenshot.png",
+        "alt": "Dev Proxy simulating mocking Microsoft Graph API request to /users",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Change mocks file",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/change-mocks-file",
+        "description": "Instructions on how to change the mocks file used by the Dev Proxy."
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/microsoft-graph-sandbox-mocks",
+    "creationDateTime": "2023-09-22T00:00:00+00:00",
+    "updateDateTime": "2024-01-25T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-microsoft-graph-sandbox-mocks",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-devproxy-postmark-rate-limiting-errors",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Simulate rate limiting and errors on Postmark APIs",
+    "shortDescription": "This sample contains a preset to simulate rate limiting and random errors on Postmark APIs. Postmark APIs support rate limiting, which is a mechanism that informs developers of the available server resources and allows them to increase the data throughput by staying under the rate limits and avoiding throttling.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/postmark-rate-limiting-errors",
+    "products": [
+      "Dev Proxy"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "postmark-rate-limiting-errors"
+      },
+      {
+        "key": "PRESET",
+        "value": "Yes"
+      },
+      {
+        "key": "MOCKS",
+        "value": "Yes"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.14.1"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/postmark-rate-limiting-errors/assets/postmark-errors.png",
+        "alt": "Dev Proxy simulating random API errors on Postmark APIs",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 200,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/postmark-rate-limiting-errors/assets/postmark-rate-limiting.png",
+        "alt": "Dev Proxy simulating rate limiting on Postmark APIs",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Use preset configurations",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/use-preset-configurations",
+        "description": "Instructions on how to configure the Dev Proxy to use a different configuration file."
+      },
+      {
+        "name": "RateLimitingPlugin documentation",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/technical-reference/ratelimitingplugin",
+        "description": "The documentation of the RateLimitingPlugin for the Dev Proxy."
+      },
+      {
+        "name": "HTTP response codes",
+        "url": "https://postmarkapp.com/developer/api/overview#response-codes",
+        "description": "Postmark API HTTP error codes"
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/postmark-rate-limiting-errors",
+    "creationDateTime": "2024-01-07T00:00:00+00:00",
+    "updateDateTime": "2024-01-25T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-postmark-rate-limiting-errors",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-devproxy-northwinddb",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "CRUD APIs with Northwind database data",
+    "shortDescription": "This sample contains a set of CRUD APIs based on the Northwind database data. Use this API to get mock data in your app. This sample contains mock CRUD APIs for product categories, customers, employees, orders, products, shippers, suppliers and territories. See the sample readme on GitHub for the list of available endpoints.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/northwinddb",
+    "products": [
+      "Dev Proxy"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "northwinddb"
+      },
+      {
+        "key": "PRESET",
+        "value": "Yes"
+      },
+      {
+        "key": "MOCKS",
+        "value": "Yes"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.14.1"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/northwinddb/assets/customers.png",
+        "alt": "Dev Proxy simulating a customers API endpoint using the Northwind data",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 200,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/northwinddb/assets/products.png",
+        "alt": "Dev Proxy simulating a products API endpoint using the Northwind data",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Simulate a CRUD API",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/simulate-crud-api",
+        "description": "Learn how to use the Dev Proxy to simulate a CRUD API."
+      },
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Use preset configurations",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/use-preset-configurations",
+        "description": "Instructions on how to configure the Dev Proxy to use a different configuration file."
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/northwinddb",
+    "creationDateTime": "2024-01-16T00:00:00+00:00",
+    "updateDateTime": "2024-01-25T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-northwinddb",
+    "featured": true
+  },
+  {
+    "sampleId": "pnp-sp-fx-aces-basiccard-helpdesk",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Basic Card Help Desk",
+    "shortDescription": "This solution uses a help desk scenaio to demonstrate how to use the geolocation features and image upload functionality in Adaptive Card Extensions.",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint",
+      "Viva"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "CLIENT-SIDE-DEV",
+        "value": "React"
+      },
+      {
+        "key": "SPFX-VERSION",
+        "value": "1.18"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/sp-dev-fx-aces/main/samples/BasicCard-HelpDesk/assets/demo1.png",
+        "alt": "Preview",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/sp-dev-fx-aces/main/samples/BasicCard-HelpDesk/assets/demo2.png",
+        "alt": "Preview",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/sp-dev-fx-aces/main/samples/BasicCard-HelpDesk/assets/demo3.png",
+        "alt": "Preview",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "dcashpeterson",
+        "displayName": "Derek Cash-Peterson",
+        "company": null,
+        "pictureUrl": "https://github.com/dcashpeterson.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Viva Connections Extensibility guidance",
+        "url": "https://aka.ms/viva/connections/extensibility",
+        "description": "Adaptive Card Extensions are client-side components that run in the context of a SharePoint page."
+      },
+      {
+        "name": "Adaptive Card Documentation",
+        "url": "https://adaptivecards.io/",
+        "description": "Detailed documentation on Adaptive Cards including the Adaptive Card designer."
+      },
+      {
+        "name": "Adaptive Card Extension Design Guidance",
+        "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/viva/design/design-intro",
+        "description": "Design guidance for laying out Adaptive Card Extensions."
+      }
+    ],
+    "url": "https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/BasicCard-HelpDesk",
+    "creationDateTime": "2024-01-25T00:00:00+00:00",
+    "updateDateTime": "2024-01-25T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-sp-fx-aces-basiccard-helpdesk",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-devproxy-apim-rate-limiting",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Simulate rate limiting on APIs published on Azure API Management",
+    "shortDescription": "This sample contains a preset to simulate the rate limit policy for an API published on Azure API Management. Azure API Management allows you to define rate limits for your APIs to prevent abuse and ensure that your APIs are available for all consumers. The rate limit policy allows you to define the number of requests that can be made to an API within a specified time window. When the rate limit is exceeded, the API returns a 429 Too Many Requests response.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/apim-rate-limiting",
+    "products": [
+      "Dev Proxy"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "apim-rate-limiting"
+      },
+      {
+        "key": "PRESET",
+        "value": "Yes"
+      },
+      {
+        "key": "MOCKS",
+        "value": "Yes"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.14.1"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/apim-rate-limiting/assets/devproxy-rate-limit.png",
+        "alt": "Dev Proxy simulating rate limiting on an API published to Azure API Management",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 200,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/apim-rate-limiting/assets/api-rate-limit.png",
+        "alt": "Rate limit policy on an API in Azure API Management",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Use preset configurations",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/use-preset-configurations",
+        "description": "Instructions on how to configure the Dev Proxy to use a different configuration file."
+      },
+      {
+        "name": "RateLimitingPlugin documentation",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/technical-reference/ratelimitingplugin",
+        "description": "The documentation of the RateLimitingPlugin for the Dev Proxy."
+      },
+      {
+        "name": "Azure API Management rate limit policy reference",
+        "url": "https://learn.microsoft.com/azure/api-management/rate-limit-policy",
+        "description": "Rate limit policy documentation for Azure API Management"
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/apim-rate-limiting",
+    "creationDateTime": "2024-01-17T00:00:00+00:00",
+    "updateDateTime": "2024-01-25T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-apim-rate-limiting",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-devproxy-demo-openapispec-js",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Demo: Generate an OpenAPI spec for an API called from a JavaScript app",
+    "shortDescription": "This sample contains a demo web application connected to a placeholder API. Using Dev Proxy, you can record the API calls made by the sample app and generate an OpenAPI spec for them.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/demo-openapispec-js",
+    "products": [
+      "Dev Proxy"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "demo-openapispec-js"
+      },
+      {
+        "key": "PRESET",
+        "value": "Yes"
+      },
+      {
+        "key": "MOCKS",
+        "value": "No"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.14.1"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/demo-openapispec-js/assets/devproxyrc.png",
+        "alt": "Dev Proxy configuration file for generating an OpenAPI spec for the demo API",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 200,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/demo-openapispec-js/assets/npm-start.png",
+        "alt": "Dev Proxy and sample app running in the terminal",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 300,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/demo-openapispec-js/assets/webapp.png",
+        "alt": "Demo web app connected to the demo API",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 400,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/demo-openapispec-js/assets/openapi-spec.png",
+        "alt": "OpenAPI spec generated by Dev Proxy opened in Visual Studio Code",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Generate an OpenAPI spec",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/generate-openapi-spec",
+        "description": "Learn how to use the Dev Proxy to generate an OpenAPI spec for your API."
+      },
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Use preset configurations",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/use-preset-configurations",
+        "description": "Instructions on how to configure the Dev Proxy to use a different configuration file."
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/demo-openapispec-js",
+    "creationDateTime": "2024-01-24T00:00:00+00:00",
+    "updateDateTime": "2024-01-25T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-demo-openapispec-js",
+    "featured": false
+  },
+  {
+    "sampleId": "spo-add-multiple-folders-in-libraries-using-csv-file",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Add multiple folders in libraries using a CSV file",
+    "shortDescription": "This script will create the folders (not nested) into the libraries provided in the CSV file.",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint"
+    ],
+    "categories": [
+      "Data",
+      "Provision"
+    ],
+    "preview": null,
+    "metadata": [
+      {
+        "key": "PNP-POWERSHELL",
+        "value": "1.10.0"
+      },
+      {
+        "key": "CLI-FOR-MICROSOFT365",
+        "value": "7.3.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/script-samples/main/scripts/spo-add-multiple-folders-in-libraries-using-csv-file/assets/preview.png",
+        "alt": "preview image for the sample",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "ganesh-sanap",
+        "displayName": "Ganesh Sanap",
+        "company": "",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/25476310?v=4"
+      },
+      {
+        "gitHubAccount": "Jitenparmar",
+        "displayName": "Jiten Parmar",
+        "company": "",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/7124132?v=4"
+      }
+    ],
+    "references": [
+      {
+        "name": "Want to learn more about PnP PowerShell and the cmdlets",
+        "url": "https://aka.ms/pnp/powershell",
+        "description": "Check out the PnP PowerShell site to get started and for the reference to the cmdlets."
+      },
+      {
+        "name": "Want to learn more about CLI for Microsoft 365 and the commands",
+        "url": "https://aka.ms/cli-m365",
+        "description": "Check out the CLI for Microsoft 365 site to get started and for the reference to the commands."
+      }
+    ],
+    "url": "https://pnp.github.io/script-samples/spo-add-multiple-folders-in-libraries-using-csv-file/README.html",
+    "creationDateTime": "2021-05-10T00:00:00+00:00",
+    "updateDateTime": "2024-01-25T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/spo-add-multiple-folders-in-libraries-using-csv-file",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-sp-fx-aces-design-card",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Designing Card Templates",
+    "shortDescription": "This sample application shows how to implement all of the layout options that are available in the component base model of the SharePoint Framework (SPFx) Adaptive Card Extensions (ACEs) Card Views, accordingly to the documentation available.",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint",
+      "Viva"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "CLIENT-SIDE-DEV",
+        "value": "React"
+      },
+      {
+        "key": "SPFX-VERSION",
+        "value": "1.18.2"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/Benefits.png",
+        "alt": "Image large Card View with a title and an action button",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 200,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/Viva-Insights.png",
+        "alt": "Image large Card View with a title",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 300,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/Feedback-Survey.png",
+        "alt": "Image large Card View with a title, a text input, and a submission button",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 400,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/Location-Tracker.png",
+        "alt": "Image large Card View with a title, a text input, and an action button",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 500,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/App-Name.png",
+        "alt": "Image large Card View with a title, and a text input",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 600,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/Approvals.png",
+        "alt": "Basic medium Card View with title and action button",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 700,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/Viva-Topics.png",
+        "alt": "Basic medium Card View with title",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 800,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/Help-Desk.png",
+        "alt": "Basic large Card View with title, input text, and submission button",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 900,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/Poll.png",
+        "alt": "Primary Text medium Card View with title, body, and action button",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 1000,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/Shifts.png",
+        "alt": "Primary Text medium Card View with title, and body",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 1100,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/Training.png",
+        "alt": "Primary Text large Card View with title, body, input text, and submission button",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 1200,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/Chat-GPT.png",
+        "alt": "Input Text large Card View with title, input text, and submission button",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 1300,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/App-Name-2.png",
+        "alt": "Input Text large Card View with title and input text",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 1400,
+        "url": "https://raw.github.com/pnp/sp-dev-fx-aces/main/samples/design-card/assets/Search-Box.png",
+        "alt": "Search Box Card View with title, search box, and search results preview",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "PaoloPia",
+        "displayName": "Paolo Pialorsi",
+        "company": "PiaSys.com",
+        "pictureUrl": "https://github.com/paolopia.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Getting started with SharePoint Framework",
+        "url": "https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant",
+        "description": "Learn how to start developing SharePoint Framework solutions."
+      },
+      {
+        "name": "Viva Connections Extensibility guidance",
+        "url": "https://aka.ms/viva/connections/extensibility",
+        "description": "Adaptive Card Extensions are client-side components that run in the context of a SharePoint page."
+      },
+      {
+        "name": "Designing Viva Connections custom cards for your dashboard",
+        "url": "https://learn.microsoft.com/en-us/sharepoint/dev/spfx/viva/design/designing-card",
+        "description": "Official guidelines about how to design the Card Views of a SharePoint Framework Adaptive Card Extension (ACE)."
+      },
+      {
+        "name": "Microsoft 365 Patterns and Practices",
+        "url": "https://aka.ms/m365pnp",
+        "description": "Guidance, tooling, samples and open-source controls for your Microsoft 365 development."
+      }
+    ],
+    "url": "https://github.com/pnp/sp-dev-fx-aces/tree/main/samples/design-card",
+    "creationDateTime": "2024-01-24T00:00:00+00:00",
+    "updateDateTime": "2024-01-24T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-sp-fx-aces-design-card",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-list-formatting-filename-highlight-non-empty-folders",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Highlight non-empty folder",
+    "shortDescription": "This sample shows how folders can be highlighted or grayed out depending on whether they are empty or not",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint",
+      "Microsoft Lists"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "LIST-SAMPLE-TYPE",
+        "value": "Column"
+      },
+      {
+        "key": "SHAREPOINT-COMPATIBILITY",
+        "value": "SharePoint Online"
+      },
+      {
+        "key": "SAMPLE-CATEGORIES",
+        "value": "Document Library"
+      },
+      {
+        "key": "LIST-COLUMN-TYPE",
+        "value": "Filename"
+      },
+      {
+        "key": "FORMATTING-TOKENS",
+        "value": ""
+      },
+      {
+        "key": "FORMATTING-OPERATORS",
+        "value": "indexOf"
+      },
+      {
+        "key": "FORMATTING-ACTIONS",
+        "value": "defaultClick, openContextMenu, share"
+      },
+      {
+        "key": "FORMATTING-FEATURES",
+        "value": ""
+      },
+      {
+        "key": "CLASSES",
+        "value": "ms-bgColor-gray60--hover, ms-fontColor-black, ms-fontColor-black, ms-fontColor-black, ms-fontColor-gray120, ms-fontColor-gray120, ms-fontColor-neutralDark--hover, ms-fontColor-white, ms-fontWeight-semibold, ms-fontWeight-semibold, ms-Link"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/list-formatting/master/column-samples/filename-highlight-non-empty-folders/assets/screenshot.png",
+        "alt": "screenshot",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 101,
+        "url": "https://raw.githubusercontent.com/pnp/list-formatting/master/column-samples/filename-highlight-non-empty-folders/assets/screenshot_hidden_columns.png",
+        "alt": "screenshot",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "MoeIcI",
+        "displayName": "Moritz Lickert",
+        "company": null,
+        "pictureUrl": "https://github.com/MoeIcI.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Use column formatting to customize SharePoint",
+        "url": "https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting",
+        "description": "You can use column formatting to customize how fields in SharePoint lists and libraries are displayed. To do this, you construct a JSON object that describes the elements that are displayed when a field is included in a list view, and the styles to be applied to those elements. The column formatting does not change the data in the list item or file; it only changes how it’s displayed to users who browse the list."
+      }
+    ],
+    "url": "https://github.com/pnp/list-formatting/tree/master/column-samples/filename-highlight-non-empty-folders",
+    "creationDateTime": "2023-10-06T00:00:00+00:00",
+    "updateDateTime": "2024-01-24T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-list-formatting-filename-highlight-non-empty-folders",
+    "featured": false
+  },
+  {
+    "sampleId": "spo-add-dummy-folders-and-files",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Add dummy folders and files to a SharePoint library",
+    "shortDescription": "This sample shows how to add dummy folders and files into a SharePoint library, generating files within folders to perform testing.",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint"
+    ],
+    "categories": [
+      "Configure",
+      "Data",
+      "Provision"
+    ],
+    "preview": null,
+    "metadata": [
+      {
+        "key": "PNP-POWERSHELL",
+        "value": "1.12.0"
+      },
+      {
+        "key": "CLI-FOR-MICROSOFT365",
+        "value": "7.3.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/script-samples/main/scripts/spo-add-dummy-folders-and-files/assets/preview.png",
+        "alt": "preview image for the sample",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "ganesh-sanap",
+        "displayName": "Ganesh Sanap",
+        "company": "",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/25476310?v=4"
+      },
+      {
+        "gitHubAccount": "reshmee011",
+        "displayName": "Reshmee Auckloo",
+        "company": "PPF",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/7693852?v=4"
+      }
+    ],
+    "references": [
+      {
+        "name": "Want to learn more about PnP PowerShell and the cmdlets",
+        "url": "https://aka.ms/pnp/powershell",
+        "description": "Check out the PnP PowerShell site to get started and for the reference to the cmdlets."
+      },
+      {
+        "name": "Want to learn more about CLI for Microsoft 365 and the commands",
+        "url": "https://aka.ms/cli-m365",
+        "description": "Check out the CLI for Microsoft 365 site to get started and for the reference to the commands."
+      }
+    ],
+    "url": "https://pnp.github.io/script-samples/spo-add-dummy-folders-and-files/README.html",
+    "creationDateTime": "2022-11-13T00:00:00+00:00",
+    "updateDateTime": "2024-01-24T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/spo-add-dummy-folders-and-files",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-list-formatting-commandbar-display-edit-in-gridview",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Display Edit in Grid View Button in the Command Bar",
+    "shortDescription": "In the Document Library, the [Edit in grid view] button is hidden under the [...] button. This sample demonstrates displaying the [Edit in grid view] button on the command bar.",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint",
+      "Microsoft Lists"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "LIST-SAMPLE-TYPE",
+        "value": "View"
+      },
+      {
+        "key": "SHAREPOINT-COMPATIBILITY",
+        "value": "SharePoint Online"
+      },
+      {
+        "key": "SAMPLE-CATEGORIES",
+        "value": "CommandBar Customization"
+      },
+      {
+        "key": "LIST-COLUMN-TYPE",
+        "value": ""
+      },
+      {
+        "key": "FORMATTING-TOKENS",
+        "value": ""
+      },
+      {
+        "key": "FORMATTING-OPERATORS",
+        "value": ""
+      },
+      {
+        "key": "FORMATTING-ACTIONS",
+        "value": ""
+      },
+      {
+        "key": "FORMATTING-FEATURES",
+        "value": ""
+      },
+      {
+        "key": "CLASSES",
+        "value": ""
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/List-Formatting/master/view-samples/commandbar-display-edit-in-gridview/assets/screenshot.png",
+        "alt": "screenshot",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "tecchan1107",
+        "displayName": "Tetsuya Kawahara",
+        "company": null,
+        "pictureUrl": "https://github.com/tecchan1107.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Use view formatting to customize SharePoint",
+        "url": "https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting",
+        "description": "You can use view formatting to customize how items in SharePoint lists and libraries are displayed. To do this, you construct a JSON object that describes the elements that are displayed when an item is loaded in a view and any styles to be applied to those elements."
+      }
+    ],
+    "url": "https://github.com/pnp/list-formatting/tree/master/view-samples/commandbar-display-edit-in-gridview",
+    "creationDateTime": "2024-01-23T00:00:00+00:00",
+    "updateDateTime": "2024-01-23T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-list-formatting-commandbar-display-edit-in-gridview",
+    "featured": false
+  },
+  {
+    "sampleId": "spo-add-bulk-users-to-groups",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Add bulk users to SharePoint site groups from CSV.",
+    "shortDescription": "Add bulk users to SharePoint site groups from CSV.",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint"
+    ],
+    "categories": [
+      "Configure",
+      "Security"
+    ],
+    "preview": null,
+    "metadata": [
+      {
+        "key": "PNP-POWERSHELL",
+        "value": "1.10.0"
+      },
+      {
+        "key": "SPO-MANAGEMENT-SHELL",
+        "value": "16.0.21116.12000"
+      },
+      {
+        "key": "CLI-FOR-MICROSOFT365",
+        "value": "7.3.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/script-samples/main/scripts/spo-add-bulk-users-to-groups/assets/preview.png",
+        "alt": "preview image for the sample",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "ganesh-sanap",
+        "displayName": "Ganesh Sanap",
+        "company": "",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/25476310?v=4"
+      },
+      {
+        "gitHubAccount": "chandaniprajapati",
+        "displayName": "Chandani Prajapati",
+        "company": "Rapid Circle",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/52065929?v=4"
+      }
+    ],
+    "references": [
+      {
+        "name": "Want to learn more about PnP PowerShell and the cmdlets",
+        "url": "https://aka.ms/pnp/powershell",
+        "description": "Check out the PnP PowerShell site to get started and for the reference to the cmdlets."
+      },
+      {
+        "name": "Introduction to the SharePoint Online Management Shell",
+        "url": "https://learn.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell",
+        "description": "Check out the SPO Management Shell documentation site to get started and for the reference to the cmdlets."
+      },
+      {
+        "name": "Want to learn more about CLI for Microsoft 365 and the commands",
+        "url": "https://aka.ms/cli-m365",
+        "description": "Check out the CLI for Microsoft 365 site to get started and for the reference to the commands."
+      }
+    ],
+    "url": "https://pnp.github.io/script-samples/spo-add-bulk-users-to-groups/README.html",
+    "creationDateTime": "2022-07-05T00:00:00+00:00",
+    "updateDateTime": "2024-01-22T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/spo-add-bulk-users-to-groups",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-powerplatform-samples-sudoku-game",
+    "name": null,
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "title": "Sudoku Power App Game",
+    "shortDescription": "Sudoku App is a Japanese puzzle game made for Power Apps.",
+    "downloadUrl": null,
+    "products": [
+      "Power Apps",
+      "Power Platform"
+    ],
+    "categories": [
+      "POWERAPPS"
+    ],
+    "preview": null,
+    "metadata": [
+      {
+        "key": "POWERAPPS-MANIFEST-VERSION",
+        "value": "0.20"
+      },
+      {
+        "key": "POWERAPPS-TYPE",
+        "value": "Canvas"
+      },
+      {
+        "key": "POWERAPPS-EXPERIMENTAL",
+        "value": "No"
+      },
+      {
+        "key": "POWERAPPS-PREMIUM",
+        "value": "Yes"
+      },
+      {
+        "key": "POWERAPPS-ONPREM",
+        "value": "No"
+      },
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "Yes"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/powerplatform-samples/samples/sudoku-game/assets/sudoku-screenshot.jpg?raw=true",
+        "alt": "Preview",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "ArashAghajani",
+        "displayName": "Arash Aghajani",
+        "company": null,
+        "pictureUrl": "https://github.com/ArashAghajani.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Overview of creating apps in Power Apps",
+        "url": "https://learn.microsoft.com/en-us/power-apps/maker/",
+        "description": "Overview of creating apps in Power Apps"
+      },
+      {
+        "name": "Power Apps canvas apps documentation",
+        "url": "https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/",
+        "description": "Power Apps canvas apps documentation"
+      }
+    ],
+    "url": "https://github.com/pnp/powerplatform-samples/tree/main/samples/sudoku-game",
+    "creationDateTime": "2024-01-20T00:00:00+00:00",
+    "updateDateTime": "2024-01-20T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-powerplatform-samples-sudoku-game",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-list-formatting-multi-choice-thumbnail",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Multiple thumbnail",
+    "shortDescription": "This tutorial will help you create a multiple thumbnail through images URLs listed in a multiple choice column.",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint",
+      "Microsoft Lists"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "LIST-SAMPLE-TYPE",
+        "value": "Column"
+      },
+      {
+        "key": "SHAREPOINT-COMPATIBILITY",
+        "value": "SharePoint Online"
+      },
+      {
+        "key": "SAMPLE-CATEGORIES",
+        "value": ""
+      },
+      {
+        "key": "LIST-COLUMN-TYPE",
+        "value": "Multi-Choice"
+      },
+      {
+        "key": "FORMATTING-TOKENS",
+        "value": "@now"
+      },
+      {
+        "key": "FORMATTING-OPERATORS",
+        "value": "Number"
+      },
+      {
+        "key": "FORMATTING-ACTIONS",
+        "value": "setValue"
+      },
+      {
+        "key": "FORMATTING-FEATURES",
+        "value": "forEach"
+      },
+      {
+        "key": "CLASSES",
+        "value": "ms-fontColor-white--hover, sp-css-backgroundColor-LightPurpleText, sp-css-backgroundColor-LightPurpleText--hover, sp-css-color-LightPurpleText, sp-css-color-WhiteFont, sp-css-color-WhiteText"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/List-Formatting/master/column-samples/multi-choice-thumbnail/assets/Thumbnail.png",
+        "alt": "screenshot of the sample",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 101,
+        "url": "https://raw.githubusercontent.com/pnp/List-Formatting/master/column-samples/multi-choice-thumbnail/assets/Basic-Thumbnail-Desc.png",
+        "alt": "screenshot of the basic sample",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 102,
+        "url": "https://raw.githubusercontent.com/pnp/List-Formatting/master/column-samples/multi-choice-thumbnail/assets/Advanced-Animation.gif",
+        "alt": "screenshot of the advanced sample",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 103,
+        "url": "https://raw.githubusercontent.com/pnp/List-Formatting/master/column-samples/multi-choice-thumbnail/assets/Window-Desc.png",
+        "alt": "advanced sample structure",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "Fedes365",
+        "displayName": "Federico Sapia",
+        "company": null,
+        "pictureUrl": "https://github.com/Fedes365.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Use column formatting to customize SharePoint",
+        "url": "https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting",
+        "description": "You can use column formatting to customize how fields in SharePoint lists and libraries are displayed. To do this, you construct a JSON object that describes the elements that are displayed when a field is included in a list view, and the styles to be applied to those elements. The column formatting does not change the data in the list item or file; it only changes how it’s displayed to users who browse the list."
+      }
+    ],
+    "url": "https://github.com/pnp/list-formatting/tree/master/column-samples/multi-choice-thumbnail",
+    "creationDateTime": "2024-01-19T00:00:00+00:00",
+    "updateDateTime": "2024-01-19T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-list-formatting-multi-choice-thumbnail",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-devproxy-microsoft-graph-rate-limiting",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Simulate rate limiting on Microsoft Graph APIs",
+    "shortDescription": "This sample contains a preset to simulate rate limiting on Microsoft Graph APIs. Selected Microsoft Graph endpoints support rate limiting, which is a mechanism that informs developers of the available server resources and allows them to increase the data throughput by staying under the rate limits and avoiding throttling.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/microsoft-graph-rate-limiting",
+    "products": [
+      "Dev Proxy",
+      "Microsoft Graph"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "microsoft-graph-rate-limiting"
+      },
+      {
+        "key": "PRESET",
+        "value": "Yes"
+      },
+      {
+        "key": "MOCKS",
+        "value": "No"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.13.0-beta.5"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/microsoft-graph-rate-limiting/assets/screenshot.png",
+        "alt": "Dev Proxy simulating rate limiting on Microsoft Graph APIs",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Use preset configurations",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/use-preset-configurations",
+        "description": "Instructions on how to configure the Dev Proxy to use a different configuration file."
+      },
+      {
+        "name": "RateLimitingPlugin documentation",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/technical-reference/ratelimitingplugin",
+        "description": "The documentation of the RateLimitingPlugin for the Dev Proxy."
+      },
+      {
+        "name": "Rate limit headers",
+        "url": "https://learn.microsoft.com/en-us/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online#ratelimit-headers---preview",
+        "description": "The OpenAI API reference documentation."
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/microsoft-graph-rate-limiting",
+    "creationDateTime": "2023-08-10T00:00:00+00:00",
+    "updateDateTime": "2024-01-17T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-microsoft-graph-rate-limiting",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-devproxy-resend-rate-limiting",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Simulate rate limiting on Resend APIs",
+    "shortDescription": "This sample contains a preset to simulate rate limiting on Resend APIs. Resend APIs support rate limiting, which is a mechanism that informs developers of the available server resources and allows them to increase the data throughput by staying under the rate limits and avoiding throttling.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/resend-rate-limiting",
+    "products": [
+      "Dev Proxy"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "resend-rate-limiting"
+      },
+      {
+        "key": "PRESET",
+        "value": "Yes"
+      },
+      {
+        "key": "MOCKS",
+        "value": "No"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.14.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/resend-rate-limiting/assets/screenshot.png",
+        "alt": "Dev Proxy simulating rate limiting on Resend APIs",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Use preset configurations",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/use-preset-configurations",
+        "description": "Instructions on how to configure the Dev Proxy to use a different configuration file."
+      },
+      {
+        "name": "RateLimitingPlugin documentation",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/technical-reference/ratelimitingplugin",
+        "description": "The documentation of the RateLimitingPlugin for the Dev Proxy."
+      },
+      {
+        "name": "Rate limiting",
+        "url": "https://resend.com/docs/api-reference/introduction#rate-limit",
+        "description": "Rate limiting documentation for Resend API"
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/resend-rate-limiting",
+    "creationDateTime": "2023-09-17T00:00:00+00:00",
+    "updateDateTime": "2024-01-17T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-resend-rate-limiting",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-devproxy-github-rate-limiting",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Simulate rate limiting on GitHub APIs",
+    "shortDescription": "This sample contains a preset to simulate rate limiting on GitHub APIs. GitHub APIs support rate limiting, which is a mechanism that informs developers of the available server resources and allows them to increase the data throughput by staying under the rate limits and avoiding throttling.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/github-rate-limiting",
+    "products": [
+      "Dev Proxy"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "github-rate-limiting"
+      },
+      {
+        "key": "PRESET",
+        "value": "Yes"
+      },
+      {
+        "key": "MOCKS",
+        "value": "No"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.14.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/github-rate-limiting/assets/screenshot.png",
+        "alt": "Dev Proxy simulating rate limiting on GitHub APIs",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Use preset configurations",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/use-preset-configurations",
+        "description": "Instructions on how to configure the Dev Proxy to use a different configuration file."
+      },
+      {
+        "name": "RateLimitingPlugin documentation",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/technical-reference/ratelimitingplugin",
+        "description": "The documentation of the RateLimitingPlugin for the Dev Proxy."
+      },
+      {
+        "name": "Rate limiting",
+        "url": "https://docs.github.com/en/rest/overview/resources-in-the-rest-api?apiVersion=2022-11-28#rate-limiting",
+        "description": "Rate limiting documentation for GitHub API"
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/github-rate-limiting",
+    "creationDateTime": "2023-09-16T00:00:00+00:00",
+    "updateDateTime": "2024-01-17T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-github-rate-limiting",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-devproxy-http-cats",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Simulate errors on Microsoft Graph with HTTP Cats",
+    "shortDescription": "Testing doesn't have to boring! Use this preset to return funny cat images when simulating erroneous HTTP status codes for Microsoft Graph. This preset contains images for the following HTTP status codes: 429, 500, 502, 503, 504 and 507. When you test your app in the browser, and the Dev Proxy returns one of these status codes, you will see a funny cat image instead of a boring error message. Have fun! 🐱 HTTP cat pictures by Tomomi Imura.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/http-cats",
+    "products": [
+      "Dev Proxy",
+      "Microsoft Graph"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "http-cats"
+      },
+      {
+        "key": "PRESET",
+        "value": "Yes"
+      },
+      {
+        "key": "MOCKS",
+        "value": "Yes"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.14.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/http-cats/assets/429.png",
+        "alt": "Dev Proxy simulating the 429 Too Many Request error on Microsoft Graph with an image of a cat",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 200,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/http-cats/assets/500.png",
+        "alt": "Dev Proxy simulating the 500 Internal Server Error error on Microsoft Graph with an image of a cat",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 300,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/http-cats/assets/503.png",
+        "alt": "Dev Proxy simulating the 503 Service Unavailable error on Microsoft Graph with an image of a cat",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      },
+      {
+        "gitHubAccount": "girliemac",
+        "displayName": "Tomomi Imura",
+        "company": null,
+        "pictureUrl": "https://github.com/girliemac.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Change mocks file",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/change-mocks-file",
+        "description": "Instructions on how to change the mocks file used by the Dev Proxy."
+      },
+      {
+        "name": "Use preset configurations",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/use-preset-configurations",
+        "description": "Instructions on how to configure the Dev Proxy to use a different configuration file."
+      },
+      {
+        "name": "HTTP Cat",
+        "url": "https://http.cat/",
+        "description": "Cat images for every HTTP status code."
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/http-cats",
+    "creationDateTime": "2023-08-10T00:00:00+00:00",
+    "updateDateTime": "2024-01-17T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-http-cats",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-devproxy-openai-throttling",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Simulate throttling of the OpenAI API",
+    "shortDescription": "This sample contains a preset and mocks to simulate the throttling of the OpenAI API. As more and more applications use OpenAI API to use AI, it's important that developers can verify that their apps can properly handle cases when the API is throttled. Especially when the app is using lower-tier API plans, throttling is more likely to happen so validating the app's behavior is crucial to ensure great user experience. Using this preset you can simulate throttling of the OpenAI API and see how your app will handle it. The preset includes 3 different throttling scenarios: exceeded tokens per minute, exceeded number of requests per minute and service overload, which includes dynamic simulation of handling retry-after. Proxy will simulate throttling the API using one of these modes at random.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/openai-throttling",
+    "products": [
+      "Dev Proxy"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "openai-throttling"
+      },
+      {
+        "key": "PRESET",
+        "value": "Yes"
+      },
+      {
+        "key": "MOCKS",
+        "value": "Yes"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.14.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/openai-throttling/assets/throttling-tokens.png",
+        "alt": "Dev Proxy simulating throttling of the OpenAI API when exceeded the number of tokens per minute",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 200,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/openai-throttling/assets/throttling-requests.png",
+        "alt": "Dev Proxy simulating throttling of the OpenAI API when exceeded the number of requests per minute",
+        "slides": null
+      },
+      {
+        "type": "Image",
+        "sortOrder": 300,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/openai-throttling/assets/throttling-overloaded.png",
+        "alt": "Dev Proxy simulating throttling of the OpenAI API when the server is overloaded",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Change mocks file",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/change-mocks-file",
+        "description": "Instructions on how to change the mocks file used by the Dev Proxy."
+      },
+      {
+        "name": "Use preset configurations",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/use-preset-configurations",
+        "description": "Instructions on how to configure the Dev Proxy to use a different configuration file."
+      },
+      {
+        "name": "OpenAI API reference",
+        "url": "https://platform.openai.com/docs/api-reference/introduction",
+        "description": "The OpenAI API reference documentation."
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/openai-throttling",
+    "creationDateTime": "2023-08-10T00:00:00+00:00",
+    "updateDateTime": "2024-01-17T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-openai-throttling",
+    "featured": true
+  },
+  {
+    "sampleId": "pnp-devproxy-spfx",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Preset for SharePoint Framework solutions",
+    "shortDescription": "This sample contains a preset for simulating Microsoft Graph and SharePoint API errors for use with SharePoint Framework solutions. It contains specific URL exclusion rules to ensure that the API behind the hosted SPFx workbench is not intercepted by the proxy.",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/proxy-samples/tree/main/samples/spfx",
+    "products": [
+      "Dev Proxy",
+      "SharePoint",
+      "Microsoft Graph"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "SAMPLE ID",
+        "value": "spfx"
+      },
+      {
+        "key": "PRESET",
+        "value": "Yes"
+      },
+      {
+        "key": "MOCKS",
+        "value": "No"
+      },
+      {
+        "key": "PLUGIN",
+        "value": "No"
+      },
+      {
+        "key": "PROXY VERSION",
+        "value": "v0.13.0-beta.5"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://m365-galleries-fph0e4heghdzg5hy.z01.azurefd.net/samples/samples/pnp/proxy-samples/samples/spfx/assets/screenshot.png",
+        "alt": "Dev Proxy simulating API errors for an SPFx solution",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "waldekmastykarz",
+        "displayName": "Waldek Mastykarz",
+        "company": null,
+        "pictureUrl": "https://github.com/waldekmastykarz.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Get started with the Dev Proxy",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/get-started",
+        "description": "The tutorial will introduce you to the Dev Proxy and show you how to use its features."
+      },
+      {
+        "name": "Use preset configurations",
+        "url": "https://learn.microsoft.com/microsoft-cloud/dev/dev-proxy/how-to/use-preset-configurations",
+        "description": "Instructions on how to configure the Dev Proxy to use a different configuration file."
+      }
+    ],
+    "url": "https://github.com/pnp/proxy-samples/tree/main/samples/spfx",
+    "creationDateTime": "2023-08-10T00:00:00+00:00",
+    "updateDateTime": "2024-01-17T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-devproxy-spfx",
+    "featured": true
+  },
+  {
+    "sampleId": "officedev-teamsfx-samples-bot-sso-docker",
+    "name": null,
+    "version": null,
+    "source": "officeDev",
+    "title": "Containerized Bot App with SSO Enabled",
+    "shortDescription": "A containerized Microsoft Teams Bot app with SSO",
+    "downloadUrl": null,
+    "products": [
+      "Teams",
+      "TeamsToolkit"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "TEAMS-SAMPLE-SOURCE",
+        "value": "OfficeDev"
+      },
+      {
+        "key": "TEAMS-SERVER-LANGUAGE",
+        "value": "typescript"
+      },
+      {
+        "key": "TEAMS-FEATURES",
+        "value": "bot"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/OfficeDev/TeamsFx-Samples/dev/bot-sso-docker/assets/thumbnail.png",
+        "alt": "Bot App with SSO Enabled in Docker",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "hund030",
+        "displayName": "hund030",
+        "company": null,
+        "pictureUrl": "https://avatars.githubusercontent.com/u/26134943?v=4"
+      }
+    ],
+    "references": [
+      {
+        "name": "Teams developer documentation",
+        "url": "https://aka.ms/TeamsPlatformDocs",
+        "description": null
+      },
+      {
+        "name": "Teams developer questions",
+        "url": "https://aka.ms/TeamsPlatformFeedback",
+        "description": null
+      },
+      {
+        "name": "Teams development videos from Microsoft",
+        "url": "https://aka.ms/sample-ref-teams-vids-from-microsoft",
+        "description": null
+      },
+      {
+        "name": "Teams development videos from the community",
+        "url": "https://aka.ms/sample-ref-teams-vids-from-community",
+        "description": null
+      }
+    ],
+    "url": "https://github.com/OfficeDev/TeamsFx-Samples/tree/dev/bot-sso-docker",
+    "creationDateTime": "2024-01-17T00:00:00+00:00",
+    "updateDateTime": "2024-01-17T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/officedev-teamsfx-samples-bot-sso-docker",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-list-formatting-generic-image-download",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Download Image from SharePoint Image column",
+    "shortDescription": "This sample demonstrates adding a button within a SharePoint Online/Microsoft Lists view which downloads the image from image column.",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint",
+      "Microsoft Lists"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "LIST-SAMPLE-TYPE",
+        "value": "Column"
+      },
+      {
+        "key": "SHAREPOINT-COMPATIBILITY",
+        "value": "SharePoint Online"
+      },
+      {
+        "key": "SAMPLE-CATEGORIES",
+        "value": ""
+      },
+      {
+        "key": "LIST-COLUMN-TYPE",
+        "value": "General"
+      },
+      {
+        "key": "FORMATTING-TOKENS",
+        "value": "@currentWeb"
+      },
+      {
+        "key": "FORMATTING-OPERATORS",
+        "value": ""
+      },
+      {
+        "key": "FORMATTING-ACTIONS",
+        "value": ""
+      },
+      {
+        "key": "FORMATTING-FEATURES",
+        "value": ""
+      },
+      {
+        "key": "CLASSES",
+        "value": "ms-bgColor-themePrimary, ms-fontColor-white, ms-fontSize-m"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/List-Formatting/master/column-samples/generic-image-download/assets/screenshot.png",
+        "alt": "image-download",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "ganesh-sanap",
+        "displayName": "Ganesh Sanap",
+        "company": null,
+        "pictureUrl": "https://github.com/ganesh-sanap.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Use column formatting to customize SharePoint",
+        "url": "https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting",
+        "description": "You can use column formatting to customize how fields in SharePoint lists and libraries are displayed. To do this, you construct a JSON object that describes the elements that are displayed when a field is included in a list view, and the styles to be applied to those elements. The column formatting does not change the data in the list item or file; it only changes how it’s displayed to users who browse the list."
+      }
+    ],
+    "url": "https://github.com/pnp/List-Formatting/tree/master/column-samples/generic-image-download",
+    "creationDateTime": "2022-11-12T00:00:00+00:00",
+    "updateDateTime": "2024-01-16T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-list-formatting-generic-image-download",
+    "featured": false
+  },
+  {
+    "sampleId": "pnp-list-formatting-date-button-setValue-today",
+    "name": null,
+    "version": null,
+    "source": "pnp",
+    "title": "Set Date to Today's Date (Date Only)",
+    "shortDescription": "This sample a button to 'Mark Trip as Complete' (Date Field). ",
+    "downloadUrl": null,
+    "products": [
+      "SharePoint",
+      "Microsoft Lists"
+    ],
+    "categories": null,
+    "preview": null,
+    "metadata": [
+      {
+        "key": "LIST-SAMPLE-TYPE",
+        "value": "Column"
+      },
+      {
+        "key": "SHAREPOINT-COMPATIBILITY",
+        "value": "SharePoint Online"
+      },
+      {
+        "key": "SAMPLE-CATEGORIES",
+        "value": "Icons"
+      },
+      {
+        "key": "LIST-COLUMN-TYPE",
+        "value": "General"
+      },
+      {
+        "key": "FORMATTING-TOKENS",
+        "value": "@now"
+      },
+      {
+        "key": "FORMATTING-OPERATORS",
+        "value": "Number, getYear, getMonth, getDate, padStart, toString"
+      },
+      {
+        "key": "FORMATTING-ACTIONS",
+        "value": "setValue"
+      },
+      {
+        "key": "FORMATTING-FEATURES",
+        "value": ""
+      },
+      {
+        "key": "CLASSES",
+        "value": "ms-fontColor-themePrimary, ms-fontColor-themeDarker--hover"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "Image",
+        "sortOrder": 100,
+        "url": "https://raw.githubusercontent.com/pnp/list-formatting/master/column-samples/date-button-setValue-today/assets/screenshot.gif",
+        "alt": "screenshot",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "michelcarlo",
+        "displayName": "Michel Mendes",
+        "company": null,
+        "pictureUrl": "https://github.com/michelcarlo.png"
+      }
+    ],
+    "references": [
+      {
+        "name": "Use column formatting to customize SharePoint",
+        "url": "https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting",
+        "description": "You can use column formatting to customize how fields in SharePoint lists and libraries are displayed. To do this, you construct a JSON object that describes the elements that are displayed when a field is included in a list view, and the styles to be applied to those elements. The column formatting does not change the data in the list item or file; it only changes how it’s displayed to users who browse the list."
+      }
+    ],
+    "url": "https://github.com/pnp/list-formatting/tree/master/column-samples/date-button-setValue-today",
+    "creationDateTime": "2024-01-15T00:00:00+00:00",
+    "updateDateTime": "2024-01-15T00:00:00+00:00",
+    "trackingImage": "https://m365-visitor-stats.azurewebsites.net/SamplesGallery/pnp-list-formatting-date-button-setValue-today",
+    "featured": false
+  }
+]
